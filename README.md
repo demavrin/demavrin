@@ -73,7 +73,6 @@
 <img src="https://streak-stats.demolab.com?user=demavrin&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 ## 📈 Contribution Graph
 
@@ -84,8 +83,12 @@
 </p>
 ---
 
-## 🐍 Contribution Snake
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/demavrin/demavrin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+💙 Thanks for visiting my profile!
+
+Always learning, always building.
+
 </p>
